@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VectorLoan()
+comment1.params=loan
+comment1.target=void\ addLoan(Loan)
+comment10.params=i
+comment10.target=Loan\ getLoanByIndex(int)
+comment11.params=
+comment11.target=void\ sortLoanByReturnDate()
+comment2.params=loan
+comment2.target=void\ removeLoan(Loan)
+comment3.params=
+comment3.target=void\ clearVector()
+comment4.params=
+comment4.target=void\ printAllLoans()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=id
+comment6.target=boolean\ checkLoanById(java.lang.String)
+comment7.params=id
+comment7.target=Loan\ returnLoanById(java.lang.String)
+comment8.params=
+comment8.target=void\ readFromFile()
+comment9.params=
+comment9.target=void\ saveToFile()
+numComments=12

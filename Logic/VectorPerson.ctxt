@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=person
+comment0.target=void\ addPerson(Person)
+comment1.params=person
+comment1.target=void\ removePerson(Person)
+comment10.params=
+comment10.target=void\ sortPersonBySurname()
+comment2.params=
+comment2.target=void\ clearVector()
+comment3.params=
+comment3.target=void\ printVPerson()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=searchID
+comment5.target=boolean\ checkPersonID(java.lang.String)
+comment6.params=searchID
+comment6.target=Person\ getPersonByID(java.lang.String)
+comment7.params=
+comment7.target=void\ readFromFile()
+comment8.params=
+comment8.target=void\ saveToFile()
+comment9.params=i
+comment9.target=Person\ getPersonByIndex(int)
+numComments=11

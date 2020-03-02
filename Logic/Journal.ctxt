@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Journal()
+comment1.params=title\ itemID\ authorName\ authorSurname\ releaseDate\ publisher\ areaStudy
+comment1.target=Journal(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Date,\ java.lang.String,\ java.lang.String)
+comment2.params=areaStudy
+comment2.target=void\ setAreaOfStudy(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getAreaOfStudy()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

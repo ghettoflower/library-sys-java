@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Book()
+comment1.params=title\ itemID\ authorName\ authorSurname\ releaseDate\ publisher\ genre
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Date,\ java.lang.String,\ java.lang.String)
+comment2.params=genre
+comment2.target=void\ setGenre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getGenre()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

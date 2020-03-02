@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EditReservations()
+comment1.params=title
+comment1.target=javax.swing.JLabel\ createLabel(java.lang.String)
+comment2.params=
+comment2.target=void\ clearFields()
+comment3.params=
+comment3.target=boolean\ validateFields()
+comment4.params=
+comment4.target=void\ disableButtons()
+comment5.params=
+comment5.target=void\ enableButtons()
+comment6.params=event
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

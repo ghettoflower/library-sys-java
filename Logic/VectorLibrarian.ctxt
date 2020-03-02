@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VectorLibrarian()
+comment1.params=librarian
+comment1.target=void\ addLibrarian(Librarian)
+comment10.params=i
+comment10.target=Librarian\ getLibrarianByIndex(int)
+comment11.params=
+comment11.target=void\ sortLibrarianBySurname()
+comment2.params=librarian
+comment2.target=void\ removeLibrarian(Librarian)
+comment3.params=
+comment3.target=void\ clearVector()
+comment4.params=
+comment4.target=void\ printVLibrarian()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=searchID
+comment6.target=boolean\ checkLibrarianID(java.lang.String)
+comment7.params=searchID
+comment7.target=Librarian\ getLibrarianByID(java.lang.String)
+comment8.params=
+comment8.target=void\ readFromFile()
+comment9.params=
+comment9.target=void\ saveToFile()
+numComments=12

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VectorAuthor()
+comment1.params=author
+comment1.target=void\ addAuthor(Author)
+comment10.params=i
+comment10.target=Author\ getAuthorByIndex(int)
+comment11.params=
+comment11.target=void\ sortAuthorBySurname()
+comment2.params=author
+comment2.target=void\ removeAuthor(Author)
+comment3.params=
+comment3.target=void\ clearVector()
+comment4.params=
+comment4.target=void\ printVAuthor()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=searchID
+comment6.target=boolean\ checkAuthorID(java.lang.String)
+comment7.params=searchID
+comment7.target=Author\ getAuthorByID(java.lang.String)
+comment8.params=
+comment8.target=void\ readFromFile()
+comment9.params=
+comment9.target=void\ saveToFile()
+numComments=12

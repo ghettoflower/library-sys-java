@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VectorJournal()
+comment1.params=journal
+comment1.target=void\ addJournal(Journal)
+comment10.params=i
+comment10.target=Journal\ getJournalByIndex(int)
+comment11.params=
+comment11.target=void\ sortJournalByAuthorSurname()
+comment2.params=journal
+comment2.target=void\ removeJournal(Journal)
+comment3.params=
+comment3.target=void\ clearVector()
+comment4.params=
+comment4.target=void\ printVJournal()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=searchID
+comment6.target=boolean\ checkJournalID(java.lang.String)
+comment7.params=searchID
+comment7.target=Journal\ getJournalByID(java.lang.String)
+comment8.params=
+comment8.target=void\ readFromFile()
+comment9.params=
+comment9.target=void\ saveToFile()
+numComments=12

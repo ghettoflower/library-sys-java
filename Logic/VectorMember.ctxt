@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VectorMember()
+comment1.params=member
+comment1.target=void\ addMember(Member)
+comment10.params=i
+comment10.target=Member\ getMemberByIndex(int)
+comment11.params=
+comment11.target=void\ sortMemberBySurname()
+comment2.params=member
+comment2.target=void\ removeMember(Member)
+comment3.params=
+comment3.target=void\ clearVector()
+comment4.params=
+comment4.target=void\ printVMember()
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=searchID
+comment6.target=boolean\ checkMemberID(java.lang.String)
+comment7.params=searchID
+comment7.target=Member\ getMemberByID(java.lang.String)
+comment8.params=
+comment8.target=void\ readFromFile()
+comment9.params=
+comment9.target=void\ saveToFile()
+numComments=12

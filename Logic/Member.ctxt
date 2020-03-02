@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Member()
+comment1.params=personId\ name\ surname\ dateOfBirth\ memberType\ address\ dateMemberStart\ dateMemberEnd
+comment1.target=Member(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Date,\ java.lang.String,\ java.lang.String,\ java.util.Date,\ java.util.Date)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=memberType
+comment2.target=void\ setMemberType(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMemberType()
+comment4.params=address
+comment4.target=void\ setAddress(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getAddress()
+comment6.params=dateMemberStart
+comment6.target=void\ setDateMemberStart(java.util.Date)
+comment7.params=
+comment7.target=java.util.Date\ getDateMemberStart()
+comment8.params=dateMemberEnd
+comment8.target=void\ setDateMemberEnd(java.util.Date)
+comment9.params=
+comment9.target=java.util.Date\ getDateMemberEnd()
+numComments=11
